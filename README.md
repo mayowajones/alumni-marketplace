@@ -110,3 +110,4 @@ Admin's product form uploads real files via `multer` (`server/middleware/upload.
 - **Never trust the client:** order totals are recalculated server-side from the database, not taken from what the browser sends — this is the #1 e-commerce security mistake to avoid.
 - **Fail loudly in dev, fail safely in prod:** `errorMiddleware.js` includes stack traces only outside production.
 - **One password rule:** passwords are hashed via a Mongoose `pre("save")` hook, so it's structurally impossible to save a user without hashing — no controller can "forget" to do it.
+# alumni-marketplace
