@@ -6,6 +6,7 @@ const categoryImages = {
   electronics: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
   cars: "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=900&q=80",
   wears: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=80",
+  watches: "https://images.unsplash.com/photo-1730757679771-b53e798846cf?auto=format&fit=crop&w=900&q=80",
   perfume: "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=900&q=80",
   foodstuff: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=900&q=80",
   provision: "https://images.unsplash.com/photo-1611059264934-dfc78da7dc26?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fHByb3Zpc2lvbnxlbnwwfHwwfHx8MA%3D%3D",
